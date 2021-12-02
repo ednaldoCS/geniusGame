@@ -3,14 +3,3 @@
 
 ![](./gamePrint.png)
 
-
-```
-## Meta
-
-Ednaldo Cavalcante – ednaldoend007@gmail.com
-
-Feito como atividade de um bootcamp da Digital Innovation One. Veja [Digital Innovation One] : https://digitalinnovation.one/  para mais informações.
-
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
-
-
